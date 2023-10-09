@@ -8,6 +8,7 @@
 #include <coreplugin/icontext.h>
 #include <coreplugin/icore.h>
 
+#include <QEvent>
 #include <QMenu>
 
 namespace MenuBarToggle::Internal {
